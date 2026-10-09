@@ -54,4 +54,4 @@ Use the actual simulation outputs to document numerical results; no performance 
 - For an academic submission, consider adding the circuit diagram, parameter table, scope screenshots, and a short discussion of the simulated results.
 
 ## License
-No license has been specified. Add a license if you plan to distribute this project.
+This Project is Under MIT license.
